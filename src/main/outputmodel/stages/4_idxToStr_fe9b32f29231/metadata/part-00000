@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.IndexToString","timestamp":1664821213407,"sparkVersion":"3.3.0","uid":"idxToStr_fe9b32f29231","paramMap":{"inputCol":"prediction","outputCol":"predictedLabel","labels":["Iris-setosa","Iris-versicolor","Iris-virginica"]},"defaultParamMap":{"outputCol":"idxToStr_fe9b32f29231__output"}}
